@@ -19,6 +19,7 @@ button {
     text-align: left;
     justify-content: space-between;
     align-items: center;
+    background-color: red;
 }
 
 .paragraph {
